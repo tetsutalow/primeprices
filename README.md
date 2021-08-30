@@ -1,5 +1,6 @@
 # 消費税素数の検索
 [京大の素数ものさし](https://rcpt.kyoto-bauc.or.jp/goods/kyodai_goods/indicate.php?mode=detail&id=375&category=4)が税抜き売価が577円で、税込みだと売価が素数にならないことに端を発して、税抜きでも税込みでも素数になる価格を探すことにしました。とりあえず税抜き100万円までのリストです。
+(…消費税10%になって意味なくなっちゃった…)
 
 ```py
 #!/usr/bin/env python3
